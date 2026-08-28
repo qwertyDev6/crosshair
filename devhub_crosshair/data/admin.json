@@ -1,0 +1,14 @@
+{
+    "allow": {
+        "showModes": {
+            "always": false,
+            "armed": false
+        }
+    },
+    "features": {
+        "hitConfirm": false,
+        "perWeapon": false,
+        "sketchpad": false,
+        "threatTint": false
+    }
+}
